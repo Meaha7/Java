@@ -1,5 +1,5 @@
 class Book
-{                                             // Done By Meaha.J (123015056)
+{                                             // Done By Meaha
 	private String BKName;  
         private int BKId;               // Private Data Members
 	private String BKAuthor;
