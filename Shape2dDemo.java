@@ -1,4 +1,4 @@
-abstract class Shape2d       // Meaha J  (123015056) II Year IT
+abstract class Shape2d       // Meaha 
 {
 	double base,height;
 	abstract double area();
