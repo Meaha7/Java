@@ -1,5 +1,5 @@
 import java.util.*;
-                                  // Done By Meaha.J (123015056) 
+                                  // Done By Meaha
 class Point
 {
 	private double x;         // Data Members
